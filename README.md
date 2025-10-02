@@ -109,6 +109,3 @@ sudo ./deb-watch-unified.sh --snap vlc
 sudo ./deb-watch-unified.sh --gui
 
  **Використання скрипта на власний страх та ризик, робота скрипта не гарантується**
-
-
-***[Віддячити можна через PayPal](https://www.paypal.me/v@melnik.im)***
