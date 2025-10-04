@@ -1,4 +1,5 @@
 # Порівняння версій скрипту deb-watch-unified.sh
+# Comparing versions of the deb-watch-unified.sh script
 
 ## 1. Перевірка залежностей / Dependency check
 - **UA:** У другій версії змінено спосіб перевірки залежностей:  
